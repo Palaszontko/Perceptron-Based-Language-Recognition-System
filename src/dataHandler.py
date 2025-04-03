@@ -17,6 +17,10 @@ class DataHandler:
     def getCorelationBetweenLettersInText(text: str):
         lettersCount = sum([1 for x in text if x in string.ascii_lowercase])
         return {x : text.count(x) / lettersCount * 100 for x in string.ascii_lowercase} 
+    @staticmethod
+    def changeCorrelationMapToList(correlationMap: dict):
+        return [correlationMap[x] for x in string.ascii_lowercase]
+
     
     
 
