@@ -13,9 +13,10 @@ class DataHandler:
                     languagesTextMap[dir].append(f.read().strip().replace("\n", " ").lower())
 
         return languagesTextMap
-
-
-
+    @staticmethod
+    def getCorelationBetweenLettersInText(text: str):
+        lettersCount = sum([1 for x in text if x in string.ascii_lowercase])
+        return {x : text.count(x) / lettersCount * 100 for x in string.ascii_lowercase} 
     
     
 
