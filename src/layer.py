@@ -10,7 +10,7 @@ class Layer:
     def learn(self, trainingSet):
         trainingSet = {lang: [DataHandler.changeCorrelationMapToList(DataHandler.getCorelationBetweenLettersInText(text)) for text in texts] for lang, texts in trainingSet.items()}
         
-        for i in range(EPOCHES):
+        for _ in range(EPOCHES):
             for langPerceptron, perceptron in self.perceptrons.items():   
                 random.shuffle(trainingSet[langPerceptron])
                 for langText, texts in trainingSet.items():
