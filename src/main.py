@@ -30,5 +30,14 @@ def main():
                 print(f'{file.ljust(40, "-")}> {layer.compute(DataHandler.changeCorrelationMapToList(DataHandler.getCorelationBetweenLettersInText(f.read())))}')
 
     print(f'Time taken: {round(time.time() - time.start, 3)}s')
+
+    while True:
+        user_input = input("Enter a text to classify (or type 'exit' to quit): ")
+        if user_input.lower() == 'exit':
+            print("Exiting the program.")
+            break
+        classification = layer.compute(DataHandler.changeCorrelationMapToList(DataHandler.getCorelationBetweenLettersInText(user_input)))
+        print(f'Classification result: {classification}')
+
 if __name__ == "__main__":
     main()
