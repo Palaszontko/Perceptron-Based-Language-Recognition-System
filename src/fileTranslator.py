@@ -76,9 +76,8 @@ def main():
         return
     
     for file_path in polish_dir.glob('*.txt'):
-        if "test" in file_path.name:
-            print(f"Processing file: {file_path}")
-            process_file(file_path)
+        print(f"Processing file: {file_path}")
+        process_file(file_path)
     
     print("File translation completed.")
 
