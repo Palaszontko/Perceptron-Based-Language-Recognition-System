@@ -1,0 +1,21 @@
+Schach – ein strategisches Brettspiel, gespielt von zwei Spielern auf einem 64-Feld Schachbrett[1], mit einer Reihe von Stücken (Pionetten und Figuren). Beliebt, obwohl unpräzise, Schach wird auch genannt die genannten Streifen. Das Internationale Olympische Komitee erkennt Schach als Sport an[2]. Schach gehören zu Spielen mit ausgezeichneten Informationen.
+
+Die Gegner haben Sätze von Streifen in verschiedenen Farben. Jeder von ihnen besteht aus sechzehn Streifen: ein König, ein Hetman (auch eine Dame genannt, eine Königin, eine Königin oder eine Königin), zwei Läufer (mit deutschen manchmal als Laufer bezeichnet), zwei Springer (auch allgemein Pferde oder Pferde genannt), zwei Türme, und acht Pfandlinge (Füße).
+
+Der Wert der Schachfiguren kann absolut oder relativ sein. Unter der Annahme des absoluten Vertikalwertes 1 sind die relativen statischen Werte der Figuren wie folgt[3][4]:
+
+hetman – 9 Punkte
+Turm – 5 Punkte
+Bischof – 3 Punkte
+Jumper – 3 Punkte
+König – es gibt keinen zugewiesenen Wert, weil er nicht ersetzt werden kann, aber seine Stärke wird auf etwa 4 Punkte geschätzt (von 3.5[5] bis 5[6]).
+In einer besonderen Situation auf der Platine ist der relative Wert wichtiger als der absolute Wert[7]. Dies liegt daran, dass in bestimmten Fällen Figuren unterschiedliche Werte haben können, beispielsweise in geschlossenen Positionen der Wert des Jumpers den Wert des Bischofs überschreitet und umgekehrt – in offenen Positionen ist der Wert des Bischofs größer als der Jumper (und noch mehr so das Paar Läufer über ein Paar Springer). Ebenso kann das vertikale Wechselfeld viel höher sein als 1 Punkt[8].
+
+Wenn ein Spieler Zahlen von einem Gesamtpunktwert größer als der andere hat, ist dies die Grundlage dafür, dass er einen wesentlichen Vorteil hat. Allerdings muss es nicht immer über Gewinn entscheiden – manchmal entscheidet der Positionsvorteil. Die Debatte über den Wert von Springern und Läufern (auch in Bezug auf die Farben der Felder, auf denen sich die Läufer bewegen) ist auch von einer Position und es gibt keinen Sinn ohne Bezug auf die jeweilige Situation auf dem Schachbrett. Zwei Türme haben wiederum einen Vorteil gegenüber dem Hetman, obwohl das Spiel des letzteren in der Regel einfacher ist.
+
+Die Punktwerte jeder Figur sind vertraglich und hängen von der jeweiligen Position auf dem Schachbrett ab. Sie sind jedoch ein guter Leitfaden für Anfänger Schachspieler, vor allem bei der Entscheidung, Zahlen auszutauschen. Auf der Grundlage der Punktwerte jeder Figur können sie dann folgende Regeln anwenden:
+
+Mit Materialvorteil sollte es darum gehen, die Position (durch den Austausch von Zahlen) zu vereinfachen und das Spiel zum Ende zu bringen.
+Der Punktwert des Markisens erhöht sich bei Annäherung an das Transformationsfeld (siehe Abschnitt „Rules“).
+Der Wert des Jumpers hängt von der Art der Position ab: in den geschlossenen Positionen der Jumpers (3,4) hat er einen Vorteil gegenüber dem Bischof (3), während in den offenen Positionen auf der Rückseite (jump 1.7, wicket 3); alles hängt von der spezifischen Einstellung der Figuren auf dem Schachbrett ab.
+Die Kampfkraft des Königs wächst, da die Zahl der Figuren auf dem Schachbrett abnimmt: Er ist dann viel weniger anfällig für einen matten Angriff des Gegners, so dass er ein aktives passives werden kann.

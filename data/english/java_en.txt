@@ -1,0 +1,11 @@
+Java (i.e. yawa[3]) – a concurrent, class based, object programming language of general application[4]. It was created by a working group under James Gosling of Sun Microsystems. Java is the language of creating source programs compiled into byte code, a character made by a virtual machine. Language is characterized by strong typing. His basic concepts were taken from Smalltalk (virtual machine, memory management) and C++ (large part of syntax and keywords).
+
+The community of programmers is referred to as the Java User Group[5].
+
+Oracle regularly releases new versions of Java every six months[6]. In September 2021, Oracle announced a shortening of the release period of the LTS version [in other languages] from three years to two years[6].
+
+James Gosling, Mike Sheridan and Patrick Naughton [in other languages] initiated a Java language project in June 1991[7] Java was originally designed for interactive television, but was then too advanced for the digital cable television industry[8]. Gosling designed Java with a C/C++ syntax that system and application developers could consider familiar.
+
+Sun Microsystems released its first public implementation as Java 1.0 in 1996[9]. It provided WORA functionality (Write Once, Run Anywhere), providing a free running environment on popular platforms. Quite secure and equipped with configurable security features allowed limits on access to networks and files. Popular web browsers soon enabled Java applets to run on websites, and Java quickly became popular. The Java 1.0 compiler was rewritten in Java by Arthur van Hoff to strictly comply with Java 1.0.
+
+With the advent of Java 2 (issued initially as J2SE 1.2 in December 1998 - 1999), the new versions had many configurations built for different types of platforms. J2EE included API technologies and interfaces for corporate applications that usually operate in server environments, while J2ME included API interfaces optimized for mobile applications. The desktop version was renamed J2SE. In 2006, Sun changed the names of the new J2 versions to Java EE, Java ME and Java SE respectively.

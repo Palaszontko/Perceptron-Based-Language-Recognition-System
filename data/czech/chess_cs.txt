@@ -1,0 +1,21 @@
+Šachy - strategická desková hra hraná dvěma hráči na 64-pole šachovnice [1], pomocí sady kusů (pionety a figury). Speciálně, i když nepřesné, šachy se také nazývá zmíněné pruhy. Mezinárodní olympijský výbor uznává šachy jako sport [2]. Šachy patří do her s vynikající informací.
+
+Oponenti mají sady pruhů v různých barvách. Každý z nich se skládá z šestnácti pruhů: král, hetman (také nazývaný dáma, královna, královna nebo královna), dva běžci (s německými někdy nazývané laureáty), dva jumpery (také běžně nazývané koně nebo koně), dvě věže, a osm pěšáků (ploty).
+
+Hodnota šachových figurek může být absolutní nebo relativní. Za předpokladu, že absolutní vertikální hodnota je 1, jsou relativní statické hodnoty číslic následující [3] [4]:
+
+hetman - 9 bodů
+věž - 5 bodů
+Bishop - 3 body
+Jumper - 3 body
+Král - neexistuje žádná přiřazená hodnota, protože ji nelze nahradit, ale jeho pevnost se odhaduje na přibližně 4 body (od 3.5 [5] do 5 [6]).
+V konkrétní situaci na palubě je relativní hodnota důležitější než absolutní hodnota [7]. To je způsobeno tím, že v některých případech mohou mít čísla různé hodnoty, například v uzavřených pozicích hodnota jumperu převyšuje hodnotu biskupa a naopak - v otevřených pozicích je hodnota biskupa větší než jumper (a ještě více, aby dvojice běžců nad párem jumperů). Podobně může být svislé pole změny mnohem vyšší než 1 bod [8].
+
+Má-li jeden hráč čísla o celkové bodové hodnotě větší než druhý, je to základ pro tvrzení, že má materiální výhodu. Nemusí však vždy rozhodovat o výhře - někdy rozhoduje o poziční výhodě. Debata o hodnotě skokanů a běžců (také o barvách polí, na kterých se běžci pohybují) je také poziční povahy a nemá smysl bez odkazu na konkrétní situaci na šachovnici. Na oplátku, dvě věže mají výhodu nad hetman, i když hra na druhé straně je obvykle jednodušší.
+
+Bodové hodnoty každého čísla jsou smluvní a závisí na konkrétní pozici na šachovnici. Jsou však dobrým vodítkem pro začátečníky šachových hráčů, zejména při rozhodování o výměně číslic. Poté mohou na základě bodových hodnot každého čísla použít tato pravidla:
+
+S podstatnou výhodou by mělo být cílem zjednodušení pozice (výměnou číslic) a ukončení hry.
+Hodnota bodu pěšáku se zvyšuje, když se blíží k poli transformace (viz oddíl "Pravidla").
+Hodnota jumperu závisí na povaze pozice: v uzavřených polohách jumperů (3,4) má výhodu nad biskupem (3), zatímco v otevřených polohách na zadní straně (skok 1.7, wicket 3); vše závisí na specifickém nastavení postav na šachovnici.
+Králova bojová síla roste jako počet postav na šachovnici klesá: pak je mnohem méně zranitelný k matnému útoku soupeře, takže se může stát aktivní pasivní.

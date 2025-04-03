@@ -1,0 +1,21 @@
+Ajedrez – un juego de tablero estratégico jugado por dos jugadores en un tablero de ajedrez de 64 campos[1], utilizando un conjunto de piezas (pionettes y figuras). Popularmente, aunque imprecisamente, el ajedrez también se llama las tiras mencionadas. El Comité Olímpico Internacional reconoce el ajedrez como un deporte[2]. El ajedrez pertenece a juegos con excelente información.
+
+Los oponentes tienen conjuntos de rayas en diferentes colores. Cada uno de ellos consta de dieciséis franjas: un rey, un hetman (también llamado una dama, una reina, una reina o una reina), dos corredores (con alemanes a veces llamados laufers), dos saltadores (también llamados caballos o caballos comúnmente), dos torres, y ocho peones (fences).
+
+El valor de las figuras de ajedrez puede ser absoluto o relativo. Asumiendo que el valor vertical absoluto es 1, los valores estáticos relativos de las figuras son los siguientes[3][4]:
+
+hetman – 9 puntos
+torre – 5 puntos
+Obispo – 3 puntos
+Jumper – 3 puntos
+Rey – no hay valor asignado porque no puede ser reemplazado, pero se calcula que su fuerza es alrededor de 4 puntos (de 3.5[5] a 5[6]).
+En una situación particular en el tablero, el valor relativo es más importante que el valor absoluto[7]. Esto se debe al hecho de que en algunos casos las figuras pueden tener valores diferentes, por ejemplo, en posiciones cerradas el valor del saltador excede el valor del obispo y viceversa – en posiciones abiertas el valor del obispo es mayor que el saltador (y más aún el par de corredores sobre un par de saltadores). Del mismo modo, el campo de cambio vertical puede ser mucho más alto que 1 punto[8].
+
+Si un jugador tiene cifras de un valor de punto total mayor que el otro, esta es la base para afirmar que tiene una ventaja material. Sin embargo, no siempre tiene que decidir sobre ganar – a veces la ventaja posicional decide. El debate sobre el valor de los saltadores y corredores (también con respecto a los colores de los campos en los que se mueven los corredores) es también de naturaleza posicional y no hay sentido sin referencia a la situación particular en el tablero de ajedrez. A su vez, dos torres tienen una ventaja sobre el hetman, aunque el juego de este último es generalmente más fácil.
+
+Los valores de puntos de cada figura son contractuales y dependen de la posición particular en el tablero de ajedrez. Sin embargo, son una buena guía para los jugadores de ajedrez principiantes, especialmente cuando deciden cambiar cifras. Luego, sobre la base de los valores de puntos de cada figura, pueden aplicar las siguientes reglas:
+
+Con ventaja material, el objetivo debe ser simplificar la posición (por cambiar cifras), llevando el juego al final.
+El valor de punto del peón aumenta a medida que se acerca al campo de la transformación (ver la sección ‘Reglas’).
+El valor del Jumper depende de la naturaleza de la posición: en las posiciones cerradas de los Jumpers (3,4) tiene una ventaja sobre el obispo (3), mientras que en las posiciones abiertas en el reverso (jump 1.7, wicket 3); todo depende del ajuste específico de las figuras del tablero de ajedrez.
+La fuerza de combate del rey crece a medida que el número de figuras en el tablero de ajedrez disminuye: entonces es mucho menos vulnerable a un ataque mate del oponente, por lo que puede convertirse en un pasivo activo.

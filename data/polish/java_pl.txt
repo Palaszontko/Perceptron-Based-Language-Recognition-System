@@ -1,0 +1,11 @@
+Java (wym. dżawa[3]) – współbieżny, oparty na klasach, obiektowy język programowania ogólnego zastosowania[4]. Został stworzony przez grupę roboczą pod kierunkiem Jamesa Goslinga z firmy Sun Microsystems. Java jest językiem tworzenia programów źródłowych kompilowanych do kodu bajtowego, czyli postaci wykonywanej przez maszynę wirtualną. Język cechuje się silnym typowaniem. Jego podstawowe koncepcje zostały przejęte z języka Smalltalk (maszyna wirtualna, zarządzanie pamięcią) oraz z języka C++ (duża część składni i słów kluczowych).
+
+Społeczność programistów określana jest jako Java User Group[5].
+
+Oracle regularnie wydaje nowe wersje Javy co pół roku[6]. We wrześniu 2021 Oracle ogłosiło skrócenie okresu wydawania wersji LTS﻿[w innych językach] z trzyletniego na dwuletni[6].
+
+James Gosling, Mike Sheridan i Patrick Naughton﻿[w innych językach] zainicjowali projekt języka Java w czerwcu 1991 r.[7] Java została pierwotnie zaprojektowana dla telewizji interaktywnej, ale była wówczas zbyt zaawansowana dla branży cyfrowej telewizji kablowej[8]. Gosling zaprojektował Javę ze składnią w stylu C/C++, którą programiści systemów i aplikacji mogliby uznać za znajomą.
+
+Firma Sun Microsystems wydała pierwszą publiczną implementację jako Java 1.0 w 1996 roku[9]. Zapewniał funkcjonalność WORA (ang. Write Once, Run Anywhere), zapewniającą darmowe środowisko uruchomieniowe na popularnych platformach. Dość bezpieczny i wyposażony w konfigurowalne zabezpieczenia pozwalał na ograniczenia dostępu do sieci i plików. Popularne przeglądarki internetowe wkrótce włączyły możliwość uruchamiania apletów Java na stronach internetowych, a Java szybko stała się popularna. Kompilator Java 1.0 został ponownie napisany w Javie przez Arthura van Hoffa w celu ścisłej zgodności ze specyfikacją języka Java 1.0.
+
+Wraz z pojawieniem się Java 2 (wydanej początkowo jako J2SE 1.2 w grudniu 1998 - 1999), nowe wersje miały wiele konfiguracji zbudowanych dla różnych typów platform. J2EE zawierała technologie i interfejsy API dla aplikacji korporacyjnych, które zwykle działają w środowiskach serwerowych, natomiast J2ME zawierało interfejsy API zoptymalizowane pod kątem aplikacji mobilnych. Wersja desktopowa została przemianowana na J2SE. W 2006 w celach marketingowych firma Sun zmieniła nazwy nowych wersji J2 na odpowiednio Java EE, Java ME i Java SE.

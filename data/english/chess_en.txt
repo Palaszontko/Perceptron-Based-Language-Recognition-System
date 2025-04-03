@@ -1,0 +1,21 @@
+Chess – a strategic board game played by two players on a 64-field chessboard[1], using a set of pieces (pionettes and figures). Popularly, though imprecisely, chess is also called the mentioned stripes. The International Olympic Committee recognises chess as a sport[2]. Chess belong to games with excellent information.
+
+The opponents have sets of stripes in different colors. Each of them consists of sixteen stripes: a king, a hetman (also called a lady, a queen, a queen or a queen), two runners (with German sometimes called laufers), two jumpers (also commonly called horses or horses), two towers, and eight pawns (fences).
+
+The value of chess figures can be absolute or relative. Assuming the absolute vertical value is 1, the relative static values of figures are as follows[3][4]:
+
+hetman – 9 points
+tower – 5 points
+Bishop – 3 points
+Jumper – 3 points
+King – there is no assigned value because it cannot be replaced, but its strength is estimated to be around 4 points (from 3.5[5] to 5[6]).
+In a particular situation on the board, the relative value is more important than the absolute value[7]. This is due to the fact that in certain cases figures may have different values, for example, in closed positions the value of the jumper exceeds the value of the bishop and vice versa – in open positions the value of the bishop is greater than the jumper (and even more so the pair of runners over a pair of jumpers). Similarly, the vertical change field can be much higher than 1 point[8].
+
+If one player has figures of a total point value greater than the other, this is the basis for stating that he has a material advantage. However, it does not always have to decide about winning – sometimes the positional advantage decides. The debate on the value of jumpers and runners (also regarding the colors of the fields on which the runners move) is also of a positional nature and there is no sense without reference to the particular situation on the chessboard. In turn, two towers have an advantage over the hetman, even though the game of the latter is usually easier.
+
+The point values of each figure are contractual and depend on the particular position on the chessboard. However, they are a good guide for beginners chess players, especially when deciding to exchange figures. Then, based on the point values of each figure, they may apply the following rules:
+
+With material advantage, the aim should be to simplify the position (by exchanging figures), bringing the game to the end.
+The point value of the pawn increases as it approaches the field of transformation (see the section ‘Rules’).
+The Jumper's value depends on the nature of the position: in the closed positions of the Jumpers (3,4) it has an advantage over the bishop (3), while in the open positions on the reverse (jump 1.7, wicket 3); everything depends on the specific setting of the figures on the chessboard.
+The king's combat force grows as the number of figures on the chessboard declines: he is then much less vulnerable to a matt attack of the opponent, so he can become an active passive.

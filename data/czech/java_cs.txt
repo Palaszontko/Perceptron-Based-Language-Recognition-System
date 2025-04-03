@@ -1,0 +1,11 @@
+Java (tj. Yawa [3]) - souběžný, třídní programovací jazyk obecné aplikace [4]. Byl vytvořen pracovní skupinou pod Jamesem Goslingem ze Sun Microsystems. Java je jazyk vytváření zdrojových programů sestavených do bytového kódu, což je znak vytvořený virtuálním strojem. Jazyk je charakterizován silným psaním. Jeho základní koncepty byly převzaty ze Smalltalk (virtuální stroj, správa paměti) a C + + (velká část syntaxe a klíčových slov).
+
+Komunita programátorů je označována jako Java User Group [5].
+
+Oracle pravidelně vydává nové verze Javy každých šest měsíců [6]. V září 2021 Oracle oznámil zkrácení doby vydání verze LTS [v jiných jazycích] ze tří let na dva roky [6].
+
+James Gosling, Mike Sheridan a Patrick Naughton [v jiných jazycích] zahájili jazykový projekt Java v červnu 1991 [7] Java byla původně navržena pro interaktivní televizi, ale pak byla příliš pokročilá pro odvětví digitální kabelové televize [8]. Gosling navrhl Javu se syntaxem C / C + +, který by vývojáři systému a aplikací mohli považovat za známý.
+
+Společnost Sun Microsystems vydala v roce 1996 první veřejnou implementaci jako Java 1.0 [9]. Poskytuje funkci WORA (WORA Wonder, Run Anywhere), poskytuje volné provozní prostředí na populárních platformách. Zcela zabezpečené a vybavené konfigurovatelnými bezpečnostními prvky umožňují omezení přístupu k sítím a souborům. Populární webové prohlížeče brzy umožnila Java applety spustit na webových stránkách, a Java rychle stal populární. Na Java 1.0 kompilátor byl přepsán v Java Arthur van Hoff přísně dodržovat Java 1.0.
+
+S příchodem Java 2 (původně J2SE 1.2 v prosinci 1998 - 1999) měla nová verze mnoho konfigurací pro různé typy platforem. J2EE zahrnovala technologie a rozhraní API pro firemní aplikace, které obvykle fungují v serverovém prostředí, zatímco J2ME zahrnovala rozhraní API optimalizovaná pro mobilní aplikace. Desktop verze byla přejmenována J2SE. V roce 2006 změnila Sun názvy nových verzí J2 na Java EE, Java ME a Java SE.

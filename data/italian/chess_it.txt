@@ -1,0 +1,21 @@
+Chess – un gioco strategico da tavolo giocato da due giocatori su un scacchiere a 64 campi[1], utilizzando un set di pezzi (pionenette e figure). Popolari, anche se imprecisamente, scacchi è anche chiamato le strisce menzionate. Il Comitato Olimpico Internazionale riconosce gli scacchi come uno sport[2]. Gli scacchi appartengono a giochi con informazioni eccellenti.
+
+Gli avversari hanno set di strisce in colori diversi. Ognuno di loro consiste di sedici strisce: un re, un hetman (chiamato anche una signora, una regina, una regina o una regina), due corridori (con tedesco a volte chiamato laufers), due saltatori (anche comunemente chiamato cavalli o cavalli), due torri, e otto pedine (fence).
+
+Il valore delle cifre degli scacchi può essere assoluto o relativo. Supponendo che il valore verticale assoluto sia 1, i valori statici relativi delle cifre sono i seguenti[3][4]:
+
+hetman – 9 punti
+torre – 5 punti
+Vescovo – 3 punti
+Jumper – 3 punti
+Re – non c'è valore assegnato perché non può essere sostituito, ma la sua forza è stimata intorno a 4 punti (da 3.5[5] a 5[6]).
+In una situazione particolare sul bordo, il valore relativo è più importante del valore assoluto[7]. Ciò è dovuto al fatto che in certi casi le figure possono avere valori diversi, ad esempio, in posizioni chiuse il valore del saltatore supera il valore del vescovo e viceversa – in posizioni aperte il valore del vescovo è maggiore del saltatore (e ancor più la coppia di corridori su un paio di saltatori). Allo stesso modo, il campo di cambiamento verticale può essere molto più alto di 1 punto[8].
+
+Se un giocatore ha cifre di un valore di punto totale superiore all'altro, questa è la base per affermare che ha un vantaggio materiale. Tuttavia, non sempre deve decidere di vincere – a volte il vantaggio posizionale decide. Il dibattito sul valore dei saltatori e dei corridori (anche per quanto riguarda i colori dei campi su cui i corridori si muovono) è anche di natura posizionale e non c'è senso senza riferimento alla particolare situazione sulla scacchiera. A sua volta, due torri hanno un vantaggio sul hetman, anche se il gioco di quest'ultimo è di solito più facile.
+
+I valori dei punti di ogni cifra sono contrattuali e dipendono dalla posizione particolare sulla scacchiera. Tuttavia, sono una buona guida per i giocatori principianti scacchi, soprattutto quando si decide di scambiare cifre. Poi, sulla base dei valori di punto di ciascuna figura, possono applicare le seguenti regole:
+
+Con il vantaggio materiale, l'obiettivo dovrebbe essere quello di semplificare la posizione (cambiando figure), portando il gioco alla fine.
+Il valore di punto del pedone aumenta mentre si avvicina al campo della trasformazione (vedere la sezione ‘Regole’).
+Il valore del Jumper dipende dalla natura della posizione: nelle posizioni chiuse dei Jumpers (3,4) ha un vantaggio sul vescovo (3), mentre nelle posizioni aperte sul rovescio (jump 1.7, wicket 3); tutto dipende dalla specifica impostazione delle figure sulla scacchiera.
+La forza di combattimento del re cresce come il numero di figure sulla scacchiera declina: è quindi molto meno vulnerabile ad un attacco opaco dell'avversario, quindi può diventare passivo attivo.
