@@ -22,6 +22,13 @@ def main():
 
     layer = Layer(perceptrons)
 
+    layer.learn(data)
+
+    for _ , _, filenames in os.walk('test'):
+        for file in filenames:
+            with open(f'test/{file}', 'r') as f:
+                print(f'{file.ljust(40, "-")}> {layer.compute(DataHandler.changeCorrelationMapToList(DataHandler.getCorelationBetweenLettersInText(f.read())))}')
+
     print(f'Time taken: {round(time.time() - time.start, 3)}s')
 if __name__ == "__main__":
     main()
