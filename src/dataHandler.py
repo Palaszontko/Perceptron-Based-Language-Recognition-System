@@ -21,6 +21,14 @@ class DataHandler:
     def changeCorrelationMapToList(correlationMap: dict):
         return [correlationMap[x] for x in string.ascii_lowercase]
 
+    @staticmethod
+    def normalizeVector(vector):
+        vectorLength = sum([x**2 for x in vector ]) ** 0.5
+        return [x / vectorLength for x in vector]
+    
+    @staticmethod
+    def scalarProduct(a, b):
+        return sum(x * y for x,y in zip(a,b))       
     
     
 
