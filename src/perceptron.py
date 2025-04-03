@@ -16,8 +16,8 @@ class Perceptron:
     
     def setRandomWeightsAndthreshold(self, weightsSize : int):
         'Set random weights and threshold'
-        self.weights = [random.uniform(-5,5) for _ in range(weightsSize)]
-        self.threshold = random.uniform(-5,5)
+        self.weights = [random.uniform(-0.1,0.1) for _ in range(weightsSize)]
+        self.threshold = random.uniform(-0.1,0.1)
     
     def compute(self, input):
         net = self.calculateNet(input)
